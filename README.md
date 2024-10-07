@@ -1,4 +1,4 @@
-# UTNFRA_SO_1P2C_2024_-Flores-UTNFRA_SO_1P2C_2024_Flores
+# UTNFRA_SO_1P2C_2024_-Flores-
 Nombre: Sebastian
 Apellido: Flores
 Legajo: 117728
